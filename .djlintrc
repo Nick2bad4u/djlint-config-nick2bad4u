@@ -1,0 +1,14 @@
+{
+    "close_void_tags": true,
+    "extend_exclude": ".cache,.next,.nuxt,.svelte-kit,build,coverage,dist,node_modules,out,release",
+    "extension": "html,htm",
+    "indent": 4,
+    "line_break_after_multiline_tag": true,
+    "linter_output_format": "{filename}:{line}: {code} {message} {match}",
+    "max_attribute_length": 0,
+    "max_blank_lines": 2,
+    "max_line_length": 120,
+    "preserve_blank_lines": true,
+    "profile": "html",
+    "use_gitignore": true
+}

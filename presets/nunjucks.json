@@ -1,0 +1,16 @@
+{
+    "blank_line_after_tag": "extends,include,import",
+    "blank_line_before_tag": "block,extends",
+    "close_void_tags": true,
+    "extend_exclude": ".cache,build,coverage,dist,node_modules,out,release",
+    "extension": "html,njk,nunjucks",
+    "indent": 4,
+    "line_break_after_multiline_tag": true,
+    "linter_output_format": "{filename}:{line}: {code} {message} {match}",
+    "max_attribute_length": 0,
+    "max_blank_lines": 2,
+    "max_line_length": 120,
+    "preserve_blank_lines": true,
+    "profile": "nunjucks",
+    "use_gitignore": true
+}
